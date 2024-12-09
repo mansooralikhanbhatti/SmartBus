@@ -1,0 +1,6 @@
+@SmartBus_HostAddress = http://localhost:5009
+
+GET {{SmartBus_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
